@@ -7,7 +7,7 @@ public class Main {
             if (i < 11) {
                 System.out.println("hello world");
             } else {
-                System.out.println("hello");
+                System.out.println("Hello");
             }
         }
     }
